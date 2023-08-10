@@ -1,3 +1,14 @@
+let menuIcon = document.querySelector('#menu-icon')
+let navbar = document.querySelector('.navbar')
+
+menuIcon.onclick =()=>{
+    menuIcon.classList.toggle('bx-x')
+    menuIcon.classList.toggle('active')
+}
+
+
+
+
 const section = document.querySelectorAll('section')
 const navLinks = document.querySelectorAll('header nav a')
 window.onscroll = ()=>{
