@@ -47,7 +47,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' })
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' })
 
 const typed = new Typed('.multiple-text', {
-    strings:['frontend Developer', 'pianist', 'Backend Developer', 'fullstack Developer'],
+    strings:['Whore', 'slut😅', 'b😌tch'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
